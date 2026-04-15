@@ -5,6 +5,8 @@
   A simple desktop app for downloading videos or audio using yt-dlp. Paste links or fetch entire playlists/channels, choose your format and quality, and download with a single click.
 
   <sup>This tool is not affiliated with YouTube. Users are responsible for complying with copyright laws and platform terms.</sup>
+
+  [![Download](https://img.shields.io/badge/-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
   
 </div>
 
