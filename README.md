@@ -6,7 +6,7 @@
 
   <sup>This tool is not affiliated with YouTube. Users are responsible for complying with copyright laws and platform terms.</sup>
 
-  [![Download](https://img.shields.io/badge/-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
+  [![Download](https://img.shields.io/badge/-Windows-blue.svg?style=for-the-badge&logo=windows)](https://github.com/nvx5/yt-downloader/releases/download/v1.0/yt-downloader.exe)
   
 </div>
 
